@@ -1,4 +1,0 @@
-Git directory is all of Gits tracking if you remove those, Git will be removed from the project. 
-SVN (subversion) on the other hand little files in every single directory that  peppers them out through everything thats tracking,  So if you have to remove SVN from a project, you have to remove all the little files that keeps tracking. But Git centralised everything into this one directory. So the below file (.git) is the main tracking file if you remove that git will not track
-
-This is the new change which needs to be tracked
